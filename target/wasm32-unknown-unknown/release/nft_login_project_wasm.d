@@ -1,0 +1,1 @@
+/home/deck/Master/nft-login-project/Login\ Blockchain/target/wasm32-unknown-unknown/release/nft_login_project_wasm.wasm: /home/deck/Master/nft-login-project/Login\ Blockchain/src/nft_login_project.rs /home/deck/Master/nft-login-project/Login\ Blockchain/wasm/src/lib.rs

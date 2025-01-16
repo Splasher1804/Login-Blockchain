@@ -1,0 +1,12 @@
+/home/deck/Master/nft-login-project/Login Blockchain/target/debug/deps/libsemver-7202f2e51344bd2f.rmeta: /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/lib.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/backport.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/display.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/error.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/eval.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/identifier.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/impls.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/parse.rs
+
+/home/deck/Master/nft-login-project/Login Blockchain/target/debug/deps/semver-7202f2e51344bd2f.d: /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/lib.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/backport.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/display.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/error.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/eval.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/identifier.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/impls.rs /home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/parse.rs
+
+/home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/lib.rs:
+/home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/backport.rs:
+/home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/display.rs:
+/home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/error.rs:
+/home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/eval.rs:
+/home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/identifier.rs:
+/home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/impls.rs:
+/home/deck/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.24/src/parse.rs:

@@ -1,0 +1,1 @@
+/home/deck/Master/nft-login-project/Login\ Blockchain/target/debug/nft-login-project-meta: /home/deck/Master/nft-login-project/Login\ Blockchain/meta/src/main.rs /home/deck/Master/nft-login-project/Login\ Blockchain/src/nft_login_project.rs
